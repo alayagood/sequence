@@ -1,0 +1,19 @@
+{
+  "name": "sequence-promise",
+  "version": "1.0.0",
+  "description": "A simple function that takes a Set and a function which can generate promises and it will call them sequentially, one after another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alayagood/sequence.git"
+  },
+  "author": "Magino Marveaux-Cochet & Pierre-Jacques Dauvert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alayagood/sequence/issues"
+  },
+  "homepage": "https://github.com/alayagood/sequence#readme"
+}
