@@ -1,6 +1,6 @@
 {
   "name": "sequence-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function that takes a Set and a function which can generate promises and it will call them sequentially, one after another",
   "main": "index.js",
   "scripts": {
